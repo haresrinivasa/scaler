@@ -1,3 +1,5 @@
 this is a sample file
 
 this is my second change doing on the remote
+
+this line is getting edited to branch A
